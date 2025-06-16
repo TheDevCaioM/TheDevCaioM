@@ -7,7 +7,7 @@ Olá! Me chamo Caio, sou natural de Minas Gerais e formado como Técnico em Rede
 Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em projetos reais
 seja no mundo das redes, do desenvolvimento web ou da automação de tarefas.
 
-Aproveita e me segue nas redes sociais como o meu canal do youtube "[TheDevCaio](https://www.youtube.com/@TheDevCaio)" e também meu instagram que é "[Simon Hikari](https://www.instagram.com/TheDevCaio/)"
+Aproveita e me segue nas redes sociais como o meu canal do youtube "[TheDevCaio](https://www.youtube.com/@TheDevCaio)" e também meu instagram que é "[TheDevCaio](https://www.instagram.com/TheDevCaio/)"
 
 <p align="left">
     <a href="https://www.youtube.com/@TheDevCaio?sub_confirmation=1">
