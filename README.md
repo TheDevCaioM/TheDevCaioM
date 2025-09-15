@@ -1,29 +1,34 @@
 # 🖥️ Caio Melo
 
-**`Desenvolvedor FullStack`**
+🚀 Desenvolvedor FullStack
 
-Olá! Me chamo Caio, sou natural de Minas Gerais e formado como Técnico em Redes de Computadores pelo SENAI. Desde então, venho ampliando minha atuação na área da tecnologia, me desenvolvendo como Desenvolvedor FullStack com foco em soluções práticas, inteligentes e bem estruturadas.
+👋 Olá, seja bem-vindo ao meu perfil!
 
-Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em projetos reais
-seja no mundo das redes, do desenvolvimento web ou da automação de tarefas.
+Aqui você vai encontrar meus projetos, aprendizados e experiências que venho construindo ao longo da minha jornada na área de Tecnologia da Informação.
 
-Aproveita e me segue nas redes sociais como o meu canal do youtube "[TheDevCaio](https://www.youtube.com/@TheDevCaio)" e também meu instagram que é "[TheDevCaio](https://www.instagram.com/TheDevCaio/)"
+👨‍🎓 Formação & Experiência:
+🎓 Técnico em Redes de Computadores pelo SENAI - MG (Varginha)
+💻 Experiência em programação (Python, C, C++ e Java)
+🐧 Experiência com Linux e tecnologias Web
+
+🔗 Confira meu LinkedIn: [https://github.com/TheDevCaioM](https://www.linkedin.com/in/caio-melo-930433362/)
+
+⚡ Áreas em que posso atuar:
+🌐 Administração de Redes – configuração, monitoramento e manutenção
+☁️ Virtualização & Cloud – VirtualBox, Docker, centralização de dados
+🤖 Automação de Processos – Python, C, C++ e outras ferramentas
+💡 Desenvolvimento de Aplicações – Python, Java, C, C++
+🗄️ Design & Otimização de Bancos de Dados
+🔒 Monitoramento & Segurança de Redes – Cacti, boas práticas
+
+🌍 Outras contribuições:
+📚 Educação & Mentoria em Tecnologia
+🤝 Colaboração internacional em projetos
+💻 Desenvolvimento de plataformas e serviços online
+
+"Grandes ideias importam, mas em tecnologia o que realmente faz a diferença é transformá-las em soluções reais e em código que impacta a vida das pessoas."
 
 <p align="left">
-    <a href="https://www.youtube.com/@TheDevCaio?sub_confirmation=1">
-        <img 
-            alt="Inscritos"
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCaMX2ZTvuIGbld_LP-_cJew?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@TheDevCaio">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCaMX2ZTvuIGbld_LP-_cJew?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/TheDevCaioM?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
