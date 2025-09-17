@@ -45,7 +45,7 @@ Aqui você vai encontrar meus projetos, aprendizados e experiências que venho c
     </a>
 </p>
 
----
+----
 
 ### 💫 Linguagens e Tecnologias
 
