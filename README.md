@@ -1,7 +1,6 @@
 <!-- ✨ Banner / Introdução -->
 <h1 align="center">
-  <img src="https://github.com/TheDevCaioM.png" width="130" style="border-radius: 50%; box-shadow: 0 0 15px #7c3aed;"><br>
-  👋 <strong>Olá, eu sou o Caio Melo!</strong>
+  👋 <strong>Olá, me chamo Caio Melo!</strong>
 </h1>
 
 <h3 align="center">🚀 Desenvolvedor FullStack • Técnico em Redes • Estudante de ADS</h3>
