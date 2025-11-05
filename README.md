@@ -16,18 +16,16 @@
 ### 🧠 Sobre mim
 
 Sou um **entusiasta da tecnologia e da inovação**, sempre explorando novas formas de criar, automatizar e conectar o mundo digital.  
-Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **infraestrutura de redes** — unindo lógica, design e desempenho.
-
-
+Atuo com **desenvolvimento FullStack**, **automação de processos** e **infraestrutura de redes**, unindo **lógica, design e desempenho** para entregar soluções completas e eficientes.
 
 ---
 
 ### 🎓 Formação & Experiência
 
-🎓 **Análise e Desenvolvimento de Sistemas (ADS)** — *Uninter Santos (SP)*  
-💼 **Técnico em Redes de Computadores** — *SENAI MG (Varginha)*  
+🎓 **Análise e Desenvolvimento de Sistemas (ADS)** — *Uninter, Santos (SP)*  
+💼 **Técnico em Redes de Computadores** — *SENAI, Varginha (MG)*  
 💻 Experiência com **Python, C, C++, Java e C#**  
-🐧 Fã de **Linux**, automações e infraestrutura moderna  
+🐧 Apreciador de **Linux**, automações e infraestrutura moderna  
 🤖 Criação de **bots inteligentes e sistemas automatizados**  
 🌐 Desenvolvimento **Web e Desktop** com foco em performance e UX  
 
@@ -49,7 +47,7 @@ Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **in
 ### 🌍 Outras Contribuições
 
 - 💡 Criação de **ferramentas e plataformas digitais**
-- 🤝 Contribuição em **projetos open source**
+- 🤝 Participação em **projetos open source**
 - 📚 Produção de **tutoriais e conteúdos educacionais**
 - 🤖 Desenvolvimento de **bots inteligentes para Discord**
 - ⚙️ Projetos que unem **automação e personalização**
@@ -98,7 +96,9 @@ Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **in
 ---
 
 ### 🤖 Motivação
-Se você pensa em desistir, lembre-se dessa frase:
+
+Se você pensa em desistir, lembre-se disso:
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00F5D4&background=00000000&center=true&vCenter=true&width=850&lines=💡+Eu+não+falhei+mil+vezes;💾+Só+escrevi+mil+commits+antes+de+acertar.">
 </p>
