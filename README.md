@@ -18,7 +18,7 @@
 Sou um **entusiasta da tecnologia e da inovação**, sempre explorando novas formas de criar, automatizar e conectar o mundo digital.  
 Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **infraestrutura de redes** — unindo lógica, design e desempenho.
 
-💡 *“Grandes ideias importam, mas o que realmente transforma é colocá-las em prática.”*
+
 
 ---
 
@@ -94,6 +94,14 @@ Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **in
 📧 **E-mail:** [caiomelomorais.c.js@gmail.com](mailto:caiomelomorais.c.js@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/caio-melo-930433362](https://www.linkedin.com/in/caio-melo-930433362/)  
 🌐 **GitHub:** [github.com/TheDevCaioM](https://github.com/TheDevCaioM)
+
+---
+
+### 🤖 Motivação
+Se você pensa em desistir, lembre-se dessa frase:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00F5D4&background=00000000&center=true&vCenter=true&width=850&lines=💡+Eu+não+falhei+mil+vezes;💾+Só+escrevi+mil+commits+antes+de+acertar.">
+</p>
 
 ---
 
