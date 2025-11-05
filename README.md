@@ -1,186 +1,108 @@
-# 🖥️ Caio Melo
+<!-- ✨ Banner / Introdução -->
+<h1 align="center">
+  <img src="https://github.com/TheDevCaioM.png" width="130" style="border-radius: 50%; box-shadow: 0 0 15px #7c3aed;"><br>
+  👋 <strong>Olá, eu sou o Caio Melo!</strong>
+</h1>
 
-🚀 Desenvolvedor FullStack
+<h3 align="center">🚀 Desenvolvedor FullStack • Técnico em Redes • Estudante de ADS</h3>
 
-👋 Olá, seja bem-vindo ao meu perfil!
-
-Aqui você vai encontrar meus projetos, aprendizados e experiências que venho construindo ao longo da minha jornada na área de Tecnologia da Informação.
-
-👨‍🎓 Formação & Experiência:
-🎓 Técnico em Redes de Computadores pelo SENAI - MG (Varginha)
-💻 Experiência em programação (Python, C, C++ e Java)
-🐧 Experiência com Linux e tecnologias Web
-
-🔗 Confira meu LinkedIn: [https://github.com/TheDevCaioM](https://www.linkedin.com/in/caio-melo-930433362/)
-
-⚡ Áreas em que posso atuar:
-🌐 Administração de Redes – configuração, monitoramento e manutenção
-☁️ Virtualização & Cloud – VirtualBox, Docker, centralização de dados
-🤖 Automação de Processos – Python, C, C++ e outras ferramentas
-💡 Desenvolvimento de Aplicações – Python, Java, C, C++
-🗄️ Design & Otimização de Bancos de Dados
-🔒 Monitoramento & Segurança de Redes – Cacti, boas práticas
-
-🌍 Outras contribuições:
-📚 Educação & Mentoria em Tecnologia
-🤝 Colaboração internacional em projetos
-💻 Desenvolvimento de plataformas e serviços online
-
-"Grandes ideias importam, mas em tecnologia o que realmente faz a diferença é transformá-las em soluções reais e em código que impacta a vida das pessoas."
-
-<p align="left">
-    <a href="https://github.com/TheDevCaioM?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/TheDevCaioM?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/TheDevCaioM?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/TheDevCaioM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://github.com/TheDevCaioM">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8E7CFF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Apaixonado+por+Tecnologia+e+Inovação.;Transformando+ideias+em+código+real.">
+  </a>
 </p>
 
-----
+---
 
-### 💫 Linguagens e Tecnologias
+### 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="ArchLinux" 
-    title="ArchLinux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Nano" 
-    title="Nano"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
-/>
+Sou um **entusiasta da tecnologia e da inovação**, sempre explorando novas formas de criar, automatizar e conectar o mundo digital.  
+Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **infraestrutura de redes** — unindo lógica, design e desempenho.
 
-<br/>
-<br/>
+💡 *“Grandes ideias importam, mas o que realmente transforma é colocá-las em prática.”*
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TheDevCaioM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🎓 Formação & Experiência
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevCaioM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+🎓 **Análise e Desenvolvimento de Sistemas (ADS)** — *Uninter Santos (SP)*  
+💼 **Técnico em Redes de Computadores** — *SENAI MG (Varginha)*  
+💻 Experiência com **Python, C, C++, Java e C#**  
+🐧 Fã de **Linux**, automações e infraestrutura moderna  
+🤖 Criação de **bots inteligentes e sistemas automatizados**  
+🌐 Desenvolvimento **Web e Desktop** com foco em performance e UX  
 
+---
+
+### 💼 Áreas de Atuação
+
+| 💡 Área | 🧩 Descrição |
+|:--|:--|
+| 🌐 **Administração de Redes** | Configuração, monitoramento e manutenção profissional |
+| ☁️ **Virtualização & Cloud** | Docker, VirtualBox, centralização e deploys |
+| 🤖 **Automação de Processos** | Scripts em Python e C para eficiência máxima |
+| 💻 **Desenvolvimento FullStack** | Criação de aplicações modernas e responsivas |
+| 🗄️ **Banco de Dados** | Modelagem, otimização e integração |
+| 🔒 **Segurança de Redes** | Monitoramento e defesa com boas práticas de cibersegurança |
+
+---
+
+### 🌍 Outras Contribuições
+
+- 💡 Criação de **ferramentas e plataformas digitais**
+- 🤝 Contribuição em **projetos open source**
+- 📚 Produção de **tutoriais e conteúdos educacionais**
+- 🤖 Desenvolvimento de **bots inteligentes para Discord**
+- ⚙️ Projetos que unem **automação e personalização**
+
+---
+
+### 🧰 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,html,css,js,react,docker,mysql,git,linux,arch,neovim,vscode&perline=8" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDevCaioM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevCaioM&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Linguagens+Mais+Usadas"/>
+</p>
+
+---
+
+### 🏆 Conquistas & Engajamento
+
+<p align="center">
+  <a href="https://github.com/TheDevCaioM?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/TheDevCaioM?color=4CBB17&style=for-the-badge&labelColor=308014&logo=star&label=Estrelas"/>
+  </a>
+  <a href="https://github.com/TheDevCaioM?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/TheDevCaioM?color=0E86D4&labelColor=004B8D&style=for-the-badge&logo=github&label=Seguidores"/>
+  </a>
+  <a href="https://www.linkedin.com/in/caio-melo-930433362/">
+    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Melo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💬 Contato
+
+📧 **E-mail:** [caiomelomorais.c.js@gmail.com](mailto:caiomelomorais.c.js@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/caio-melo-930433362](https://www.linkedin.com/in/caio-melo-930433362/)  
+🌐 **GitHub:** [github.com/TheDevCaioM](https://github.com/TheDevCaioM)
+
+---
+
+<p align="center">
+  <img src="https://github.com/TheDevCaioM/TheDevCaioM/assets/112224672/2f5efb2e-8e1c-46b1-86e5-9a4e290f8d09" width="250" alt="divider" />
+</p>
+
+<p align="center">
+  <i>⭐ Obrigado por visitar meu perfil! Continue explorando e conecte-se comigo 😄</i><br>
+  <sub>Feito com ❤️ e muito café ☕</sub>
 </p>
