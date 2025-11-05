@@ -98,10 +98,6 @@ Trabalho com **desenvolvimento FullStack**, **automação de processos**, e **in
 ---
 
 <p align="center">
-  <img src="https://github.com/TheDevCaioM/TheDevCaioM/assets/112224672/2f5efb2e-8e1c-46b1-86e5-9a4e290f8d09" width="250" alt="divider" />
-</p>
-
-<p align="center">
   <i>⭐ Obrigado por visitar meu perfil! Continue explorando e conecte-se comigo 😄</i><br>
   <sub>Feito com ❤️ e muito café ☕</sub>
 </p>
